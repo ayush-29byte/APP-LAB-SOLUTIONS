@@ -6,3 +6,4 @@ str 2- triangle pyramid
 str 3- diamond shaped pattern
 str 4- Same number in inverted pyramid
 
+The files with "procd" belongs to lab 2 i.e. PROCEDURAL PROGRAMMING
