@@ -13,4 +13,8 @@ str 4- Same number in inverted pyramid
 
 The files with "procd" belongs to lab 2 i.e. PROCEDURAL PROGRAMMING
 
-The files with "oop" belongs to lab 3 i.e. PBJECT ORIENTED PROGRAMMING
+The files with "oop" belongs to lab 3 i.e. OBJECT ORIENTED PROGRAMMING
+
+The files with "event driven" belongs to lab 4 i.e. EVENT DRIVEN PROGRAMMING
+
+The files with "declarative" belongs to lab 5 i.e. DECLARATIVE PROGRAMMING
