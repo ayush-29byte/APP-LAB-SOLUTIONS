@@ -12,3 +12,5 @@ str 3- diamond shaped pattern
 str 4- Same number in inverted pyramid
 
 The files with "procd" belongs to lab 2 i.e. PROCEDURAL PROGRAMMING
+
+The files with "oop" belongs to lab 3 i.e. PBJECT ORIENTED PROGRAMMING
