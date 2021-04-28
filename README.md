@@ -18,3 +18,7 @@ The files with "oop" belongs to lab 3 i.e. OBJECT ORIENTED PROGRAMMING
 The files with "event driven" belongs to lab 4 i.e. EVENT DRIVEN PROGRAMMING
 
 The files with "declarative" belongs to lab 5 i.e. DECLARATIVE PROGRAMMING
+
+The files with "imperative" belongs to lab 6 i.e. IMPERATIVE PROGRAMMING
+
+The files with "parallel" belongs to lab 7 i.e. PARALLEL PROGRAMMING
